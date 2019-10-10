@@ -6,7 +6,7 @@
 
 ### Part 1. Jack in the Box Design
 
-<img src="https://github.com/BenKadosh1/IDD-Fa19-Lab5/blob/master/Jack_In_The_Box_BK.jpg" width=450 height=450>
+<img src="https://github.com/BenKadosh1/IDD-Fa19-Lab5/blob/master/Jack_In_The_Box_BK.jpg" width=550 height=450>
 
 ### Part 2. Jack in the Box Photo
 
